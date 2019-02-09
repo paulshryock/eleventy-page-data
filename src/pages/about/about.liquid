@@ -1,0 +1,19 @@
+---
+title: About
+slug: about
+---
+<p>Hi, my name is {{ name }}!</p>
+<p>My expertise:</p>
+<ul>
+  {% for expertise in expertise %}
+    <li>{{ expertise.name }}</li>
+  {% endfor %}
+</ul>
+<p>My skills:</p>
+<ul>
+  {% for expertise in expertise %}
+    {% for skill in expertise.skills %}
+      <li>{{ skill }}</li>
+    {% endfor %}
+  {% endfor %}
+</ul>
