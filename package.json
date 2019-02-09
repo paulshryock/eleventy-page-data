@@ -1,0 +1,32 @@
+{
+  "name": "eleventy-page-data",
+  "version": "1.0.0",
+  "description": "11ty/eleventy - [how to access directory specific data from a template in that directory](https://github.com/11ty/eleventy/issues/385)",
+  "scripts": {
+    "11ty": "npx eleventy",
+    "serve": "npx eleventy --serve",
+    "watch": "npx eleventy --watch",
+    "debug": "DEBUG=* npx eleventy",
+    "clean": "if [ -e _site ]; then rm -R _site; fi",
+    "development": "npm run-script clean; ELEVENTY_ENV=development npx eleventy --serve",
+    "staging": "npm run-script clean; ELEVENTY_ENV=staging npx eleventy",
+    "production": "npm run-script clean; ELEVENTY_ENV=production npx eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulshryock/eleventy-page-data.git"
+  },
+  "author": {
+    "name": "Paul Shryock",
+    "email": "paul@pshry.com",
+    "url": "https://pshry.com/"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/paulshryock/eleventy-page-data/issues"
+  },
+  "homepage": "https://github.com/paulshryock/eleventy-page-data#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.7.1"
+  }
+}
