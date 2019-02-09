@@ -1,0 +1,11 @@
+# Dev Dependecies
+node_modules
+
+# Eleventy output
+_site
+
+# Google Drive - Icon must end with two \r
+Icon
+
+# MacOS
+.DS_Store

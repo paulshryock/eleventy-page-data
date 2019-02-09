@@ -1,0 +1,13 @@
+{
+	"name": "Raymond Jones",
+	"expertise": [
+		{
+			"name": "Front End Development",
+			"skills": [ "HTML", "CSS", "JavaScript" ]
+		},
+		{
+			"name": "Web Design",
+			"skills": [ "Sketch", "InDesign", "Photoshop" ]
+		}
+	]
+}
