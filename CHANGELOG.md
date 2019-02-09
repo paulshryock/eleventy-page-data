@@ -25,6 +25,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 	- Add `/.gitattributes`
 	- Add `/.gitignore`
 	- Add `/CHANGELOG.md`
+	- Add `/CODE_OF_CONDUCT.md`
 	- Add `/LICENSE`
 	- Add `/README.md`
 - Add pages
