@@ -21,7 +21,7 @@
     "email": "paul@pshry.com",
     "url": "https://pshry.com/"
   },
-  "license": "ISC",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/paulshryock/eleventy-page-data/issues"
   },
