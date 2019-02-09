@@ -1,4 +1,3 @@
 {
-	"permalink": "./{{ slug }}/index.html",
-	"layout:": "_layouts/page.liquid"
+	"permalink": "./{{ slug }}/index.html"
 }
