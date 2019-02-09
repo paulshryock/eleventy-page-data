@@ -5,9 +5,9 @@ This is a working example of [how to access directory specific data from a templ
 ## Requirements
 
 1. Node
-	1. Check if Node is installed: `node --version`
-	1. If you see a version number, such as `v11.6.0`, proceed to [Quick Start](#quick-start)
-	1. If Node isn't installed, [download](https://nodejs.org/en/download/) and install it
+	- Check if Node is installed: `node --version`
+	- If you see a version number, such as `v11.6.0`, proceed to [Quick Start](#quick-start)
+	- If Node isn't installed, [download](https://nodejs.org/en/download/) and install it
 
 ## Quick Start
 
