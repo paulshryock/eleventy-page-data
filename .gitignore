@@ -1,5 +1,6 @@
 # Dev Dependecies
 node_modules
+package-lock.json
 
 # Eleventy output
 _site
