@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/paulshryock/eleventy-page-data#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.7.1"
+    "@11ty/eleventy": "^0.8.3"
   }
 }

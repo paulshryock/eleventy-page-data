@@ -1,5 +1,5 @@
 # Dev Dependecies
-node_modules
+node_modules/
 package-lock.json
 
 # Eleventy output
