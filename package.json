@@ -1,6 +1,6 @@
 {
   "name": "eleventy-page-data",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "11ty/eleventy - [how to access directory specific data from a template in that directory](https://github.com/11ty/eleventy/issues/385)",
   "scripts": {
     "11ty": "npx eleventy",
